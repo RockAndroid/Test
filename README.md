@@ -1,4 +1,4 @@
-Get Start with first Mean Calculated library
+#Get Started Developing To get started, please visit: https://github.com/RockAndroid/Test
 
 	allprojects {
 		repositories {
