@@ -1,6 +1,4 @@
-# Test
-
-
+Get Start with first Mean Calculated library
 
 	allprojects {
 		repositories {
@@ -12,3 +10,4 @@
   	dependencies {
 	        compile 'com.github.RockAndroid:Test:1.01'
 	}
+
